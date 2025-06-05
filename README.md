@@ -1,6 +1,6 @@
 Olá! Me chamo João Pedro  🧑‍💻
 #
-Formado em Curso de analise de sistemas 👾
+Formado em Curso de analise de desenvolvimento de sistemas 👾
 #
 Progamo por diversão 🕹️
  
