@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/1200x/b8/89/67/b88967ec75bf2253fa8075a52bb49ea1.jpg" alt="Banner do Perfil de João Pedro" width="50%">
+<img src="https://i.pinimg.com/1200x/b8/89/67/b88967ec75bf2253fa8075a52bb49ea1.jpg" alt="Banner do Perfil de João Pedro" width="100%" height="250px">
 
 # Olá! Me chamo João Pedro 🧑‍💻
 #
