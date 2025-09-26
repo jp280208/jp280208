@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/c3/00/52/c300524f0ff883f324fc46587b7ecb31.jpg" alt="Banner do Perfil de João Pedro" width="800">
+  <img src="https://i.pinimg.com/736x/c3/00/52/c300524f0ff883f324fc46587b7ecb31.jpg" alt="Banner do Perfil de João Pedro" width="400">
 </p>
 
 # Olá! Me chamo João Pedro 🧑‍💻
