@@ -1,4 +1,8 @@
-Olá! Me chamo João Pedro  🧑‍💻
+<p align="center">
+  <img src="https://i.pinimg.com/736x/c3/00/52/c300524f0ff883f324fc46587b7ecb31.jpg" alt="Banner do Perfil de João Pedro" width="800">
+</p>
+
+# Olá! Me chamo João Pedro 🧑‍💻
 #
 Sou formado no Curso de  analise de desenvolvimento de sistemas 👾
 #
@@ -20,17 +24,16 @@ Progamo por diversão 🕹️
     media="(prefers-color-scheme: dark)"
   />
 <source
-    srcset="https://github-readme-stats.vercel.app/api?username=jp280208&show_ic=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=jp280208&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=jp280208&show_icons=true" />
 </picture>
  
  
 <div> 
-<a href="[jp.sxz07](https://www.instagram.com/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="hpbx8619" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-
+<a href="https://www.instagram.com/jp.sxz07" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://discord.com/users/hpbx8619" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
 
 <picture>
