@@ -1,4 +1,4 @@
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7f02c7&height=120&section=header"/>
 # Olá! Me chamo João Pedro 🧑‍💻
 #
 Sou formado no Curso de  analise de desenvolvimento de sistemas 👾
@@ -38,3 +38,4 @@ Progamo por diversão 🕹️
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jp280208/jp280208/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jp280208/jp280208/output/github-contribution-grid-snake.svg">
 </picture>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7f02c7&height=120&section=header"/>
