@@ -26,7 +26,7 @@
 <a href="https://discord.com/users/hpbx8619" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href="https://www.linkedin.com/in/joao-pedro-br/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
 </div>
-<img src="https://64.media.tumblr.com/59f4b51c905af02d6981e7fa03cf5919/tumblr_ms9c3qXte81rt6u7do1_r1_400.gif" align="center" height="200px">
+<img src="https://i.pinimg.com/originals/10/b9/79/10b97973007e0802a548ee36575e67dd.gif" align="center" height="200px">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jp280208/jp280208/output/github-contribution-grid-snake-dark.svg">
