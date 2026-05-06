@@ -6,11 +6,12 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jp280208&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center"> 
-
 <div align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="30" width="40"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" width="40"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" width="40"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30" width="40"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="30" width="40"><img src="https://i0.wp.com/lordlibidan.com/wp-content/uploads/2019/03/Running-Pikachu-GIF.gif?fit=480%2C342&ssl=1" height="50">
+  <img src="https://skillicons.dev/icons?i=javascript,python,html,css,git,github,react,nodejs,mysql" />
+ <img src="https://i0.wp.com/lordlibidan.com/wp-content/uploads/2019/03/Running-Pikachu-GIF.gif?fit=480%2C342&ssl=1" height="90">
 </div>
+
+<br/>
  
 <div> 
 <a href="https://www.instagram.com/jp.sxz07"target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
